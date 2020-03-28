@@ -4,7 +4,7 @@ The assignment consists of the following steps:
 
 - Set up a GitHub account using your SU email (if you already have a GitHub account make sure you add your SU email address to your account). Instructions are on Canvas in the Orientation Section.
 - Click on the invitation link in the assignment, join the GitHub classroom by selecting your email address, and then accept the assignment. 
-- The page will show you the repository for this assignment, but before you begin go there, click to join the GitHub Student Developer Pack. You can use the invitation link in the assignment to get back to the repository.
+- The page will show you the repository for this assignment, but before you go there, click to join the GitHub Student Developer Pack. You can use the invitation link in the assignment to get back to the repository.
 - When back at your repository for the assignment, copy the name of the repository after clicking on the green button "Clone or Download".
 - Set up a new project from RStudio (top right corner of RStudio), select "Version Control" in the window that pops up, and then "Git", paste in the address of the repository from above and select a good place for the subdirectory that will hold this repository. I recommend creating a directory/folder specific for this class and then add this repository there.
 - Open the `README.md` file in your new project (look under the "Files" tab)
