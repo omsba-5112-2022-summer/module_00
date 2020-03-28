@@ -11,4 +11,5 @@ The assignment consists of the following steps:
 - Enjoy the rest of the course!
 
 Name: Claus C Portner
+
 Role: Professor
