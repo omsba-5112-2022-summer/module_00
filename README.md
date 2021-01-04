@@ -13,7 +13,7 @@ The assignment consists of the following steps:
 - Click "Commit", which brings up a new screen that shows you the changes in `README.md`.
 - Make sure the checkbox next to `README.md` is checked (under staged).
 - Write an informative commit message in the "Commit message" window and click "Commit". This will open yet another window giving you some information on the changes you commited. Close that window.
-- The Review Changes window should now say "Your branch is ahead of 'origin/master' by 1 commit". 
+- The Review Changes window should now say "Your branch is ahead of 'origin/main' by 1 commit" (may say 'master' instead of 'main'). 
 - Push the commit to GitHub by clicking on the "Push" button in the upper-right-hand corner
 - Go to the repository on github.com and check that everything was uploaded correctly (normally not necessary)
 - Enjoy the rest of the course!
